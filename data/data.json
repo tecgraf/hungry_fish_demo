@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Squirrel",
+    "asset": "squirrel.jpg"
+  },
+  {
+    "name": "Apple",
+    "asset": "apple.jpg"
+  },
+  {
+    "name": "Cadu",
+    "asset": "cadu.jpg"
+  },
+  {
+    "name": "Cake",
+    "asset": "cake.png"
+  },
+  {
+    "name": "Cat",
+    "asset": "cat.jpg"
+  },
+  {
+    "name": "Dog",
+    "asset": "dog.jpg"
+  },
+  {
+    "name": "Einstein",
+    "asset": "einstein.jpg"
+  },
+  {
+    "name": "Frog",
+    "asset": "frog.png"
+  },
+  {
+    "name": "Hamburger",
+    "asset": "hamburger.jpg"
+  },
+  {
+    "name": "Onion",
+    "asset": "onion.jpg"
+  },
+  {
+    "name": "Orange",
+    "asset": "orange.png"
+  },
+  {
+    "name": "Pizza",
+    "asset": "pizza.png"
+  },
+  {
+    "name": "Screw",
+    "asset": "screw.jpg"
+  },
+  {
+    "name": "Strawberry",
+    "asset": "strawberry.jpg"
+  },
+  {
+    "name": "Tomato",
+    "asset": "tomato.png"
+  }
+]
